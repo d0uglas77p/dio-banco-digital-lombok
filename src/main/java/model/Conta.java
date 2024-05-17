@@ -1,7 +1,7 @@
 package model;
 
-import exceptons.OperacaoInvalidaException;
-import exceptons.SaldoInsuficienteException;
+import exceptions.OperacaoInvalidaException;
+import exceptions.SaldoInsuficienteException;
 
 import lombok.Getter;
 import lombok.Setter;

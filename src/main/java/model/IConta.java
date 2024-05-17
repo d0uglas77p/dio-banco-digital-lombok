@@ -1,6 +1,6 @@
 package model;
 
-import exceptons.SaldoInsuficienteException;
+import exceptions.SaldoInsuficienteException;
 
 public interface IConta {
 
